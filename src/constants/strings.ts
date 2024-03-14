@@ -23,7 +23,7 @@ class Strings {
   static primaryEmailLink = "mailto:nkr.nikhil.nkr@gmail.com";
   static primaryEmail = "nkr.nikhil.nkr@gmail.com";
 
-  static fullName = "Nikhil Rajput";
+  static fullName = "Raja Singh";
   static shortName = "nixrajput";
 }
 

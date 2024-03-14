@@ -27,7 +27,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
               <p className="text-base/6 drop_in">Hi 👋 I&apos;m</p>
 
               <p className="text-4xl/normal md:text-5xl/normal font-bold text-[var(--primaryColor)] drop_in">
-                Nikhil Rajput
+                Raja Singh
               </p>
 
               <p className="text-sm/6 font-medium text-[var(--textColorLight)] drop_in">
