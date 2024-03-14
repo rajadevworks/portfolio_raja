@@ -13,8 +13,6 @@ const nextConfig = {
       { protocol: "https", hostname: "**.github.com" },
     ],
   },
-  output: "export", 
-  basePath: "/",
 };
 
 module.exports = nextConfig;
