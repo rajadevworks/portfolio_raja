@@ -36,11 +36,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
 
               <p className="text-base/normal mt-8 drop_in">
                 <Balancer>
-                  Welcome to my portfolio! I am a passionate full-stack
-                  developer with 1+ years of experience. I specialize in
-                  creating user-centric software, proficient in both front-end
-                  and back-end development across various platforms. I integrate
-                  cutting-edge technology seamlessly while prioritizing design.
+                Welcome to my professional space! I'm Raja Singh, a seasoned Full Stack Developer with a comprehensive 5-year background in developing innovative web and mobile solutions. Specializing in Node.js, React.js, React Native, and Next.js, I've honed my skills in creating responsive and efficient applications that cater to user needs across platforms. My expertise extends beyond frontend development to embrace the full spectrum of software development, including server-side programming and database management. With a Bachelor of Engineering in Computer Science, my approach combines technical proficiency with a keen eye for detail, ensuring that every line of code not only meets but exceeds expectations. Explore my journey and discover the passion and dedication I bring to the world of technology.
                 </Balancer>
               </p>
 
@@ -76,14 +72,14 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
           <Row classNames="w-[20rem] h-[20rem] lg:w-[25rem] lg:h-[25rem] pointer-events-none justify-self-center sm:justify-self-end items-center justify-center rounded-full bg-transparent border-2 border-[var(--primaryColor60)] aspect-sqaure overflow-hidden my-auto drop_out">
             <Row classNames="w-full h-auto items-center justify-center rounded-full bg-transparent border-[0.8rem] border-[var(--primaryColor30)] aspect-sqaure overflow-hidden pointer-events-none">
               <Image
-                src="/images/profile.webp"
+                src="/images/Profile.jpeg"
                 alt="profile"
                 width={400}
                 height={400}
                 sizes="100%"
                 priority
                 placeholder="blur"
-                blurDataURL="/images/profile.webp"
+                blurDataURL="/images/Profile.jpeg"
                 style={{
                   objectFit: "cover",
                   width: "100%",
