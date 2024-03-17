@@ -35,8 +35,8 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
               </p>
 
               <p className="text-base/normal mt-8 drop_in">
-                <Balancer>
-                Welcome to my professional space! I'm Raja Singh, a seasoned Full Stack Developer with a comprehensive 5-year background in developing innovative web and mobile solutions. Specializing in Node.js, React.js, React Native, and Next.js, I've honed my skills in creating responsive and efficient applications that cater to user needs across platforms. My expertise extends beyond frontend development to embrace the full spectrum of software development, including server-side programming and database management. With a Bachelor of Engineering in Computer Science, my approach combines technical proficiency with a keen eye for detail, ensuring that every line of code not only meets but exceeds expectations. Explore my journey and discover the passion and dedication I bring to the world of technology.
+              <Balancer>
+                  Welcome to my professional space! I&apos;m Raja Singh, a seasoned Full Stack Developer with a comprehensive 5-year background in developing innovative web and mobile solutions. Specializing in Node.js, React.js, React Native, and Next.js, I&apos;ve honed my skills in creating responsive and efficient applications that cater to user needs across platforms. My expertise extends beyond frontend development to embrace the full spectrum of software development, including server-side programming and database management. With a Bachelor of Engineering in Computer Science, my approach combines technical proficiency with a keen eye for detail, ensuring that every line of code not only meets, but exceeds expectations. Explore my journey and discover the passion and dedication I bring to the world of technology.
                 </Balancer>
               </p>
 
